@@ -104,4 +104,4 @@ g <- dygraph(df.xts,main="Best of the Best") %>%
 #library(reshape2)
 
 #melt.data <- melt(ndata, id.vars="Date")
-M = gvisMotionChart(data=melt.data, idvar="variable", timevar="Date", chartid="nwrana")
+#M = gvisMotionChart(data=melt.data, idvar="variable", timevar="Date", chartid="nwrana")
