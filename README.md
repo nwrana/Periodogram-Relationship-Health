@@ -23,6 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+'r <- 25
+r'
+
 [Link](url) and ![Image](src)
 ```
 
